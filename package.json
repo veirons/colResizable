@@ -34,7 +34,7 @@
 	],
 	"homepage" : "http://bacubacu.com/colresizable/",
 	"files" : [
-		"colResizable-1.6.1.min.js",
+		"colResizable-1.6.2.min.js",
 		"./samples"
 	]
 }
