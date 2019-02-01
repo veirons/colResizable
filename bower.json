@@ -21,7 +21,7 @@
         "Alvaro Prieto Lauroba"
     ],
     "main": [
-        "./colResizable-1.6.js"
+        "./colResizable-1.6.1.js"
     ],
     "dependencies": {
         "jquery": ">=1.9.0 <4.0.0"
